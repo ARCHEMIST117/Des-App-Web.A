@@ -1,1 +1,21 @@
 # Des-App-Web.A
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase de Git</title>
+</head>
+<body>
+    <h1>Esta es la clase básica de Git</h1>
+    <p>Aprendimos que instalamos Git y configuramos la rama como Main</p>
+    <h2>Mandando cambios a Git</h2>
+    <ul>
+        <li>git init para inicializar el repositorio</li>
+        <li>git add . para preparar los archivos a guardar</li>
+        <li>git commit -m "mensaje" para guardar los cambios</li>
+    </ul>
+    <h2>Vamos a aprender GitHub</h2>
+    <p>Sincronizaremos nuestro repo local con el de GitHub</p>
+</body>
+</html>
